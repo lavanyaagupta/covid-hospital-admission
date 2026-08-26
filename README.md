@@ -1,7 +1,7 @@
 # covid-hospital-admission
 Time series analysis and forecasting project examining hospital bed occupancy and COVID-19 census trends across New York State, built to support short-term hospital resource planning.
 
-#Overview
+# Overview
 
 Hospitals need reliable short-term forecasts of patient census to plan staffing, bed allocation, and supply chains. This project analyzes historical hospital census data from New York State to identify temporal patterns in COVID-19 hospitalizations and builds toward forecasting models that can support that kind of operational decision-making.
 
