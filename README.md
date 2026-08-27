@@ -25,5 +25,8 @@ Goals
 
 The analysis treats hospital census as a time series — sequential, chronologically dependent data where past observations influence future ones, violating standard regression assumptions and requiring specialized modeling approaches.
 
-- Autocorrelation Function (ACF) — measures correlation between the series and its own lagged values, showing how strongly current census levels relate to recent history
-- Partial Autocorrelation Function (PACF) — isolates the unique contribution of each lag by controlling for shorter lags, helping identify the appropriate autoregressive model order
+- Autocorrelation Function (ACF): measures correlation between the series and its own lagged values, showing how strongly current census levels relate to recent history
+- Partial Autocorrelation Function (PACF): isolates the unique contribution of each lag by controlling for shorter lags, helping identify the appropriate autoregressive model order
+
+# Note
+This work is originally from a course taken at Arizona State University. See DAT 402 Machine Learning on ASU Course Calendar for more.
